@@ -1,0 +1,30 @@
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\bin\Debug\Login Register.exe.config
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\obj\Debug\Login Register.csprojResolveAssemblyReference.cache
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\obj\Debug\Login_Register.Home.resources
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\obj\Debug\Login_Register.Main.resources
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\obj\Debug\Login_Register.Properties.Resources.resources
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\obj\Debug\Login_Register.Register.resources
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\obj\Debug\Login Register.csproj.GenerateResource.Cache
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\bin\Debug\Login Register.exe
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\bin\Debug\Login Register.pdb
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\obj\Debug\Login Register.exe
+c:\users\porosh prince\documents\visual studio 2015\Projects\Login Register\Login Register\obj\Debug\Login Register.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\Login Register\Login Register\bin\Debug\EntityFramework.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\Login Register\Login Register\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\Login Register\Login Register\bin\Debug\EntityFramework.xml
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\Login Register\Login Register\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\bin\Debug\Login Register.exe.config
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\obj\Debug\Login Register.exe
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\obj\Debug\Login Register.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\obj\Debug\Login Register.csprojResolveAssemblyReference.cache
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\obj\Debug\Login_Register.Home.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\obj\Debug\Login_Register.Main.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\obj\Debug\Login_Register.Properties.Resources.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\obj\Debug\Login_Register.Register.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\obj\Debug\Login Register.csproj.GenerateResource.Cache
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\bin\Debug\Login Register.exe
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\bin\Debug\Login Register.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\bin\Debug\EntityFramework.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\bin\Debug\EntityFramework.xml
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\StudenInformationWithLoginRegister\Login Register\bin\Debug\EntityFramework.SqlServer.xml
